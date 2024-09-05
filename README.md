@@ -1,16 +1,17 @@
 # todo_mobil_app
 
-A new Flutter project.
+Bu Proje de Todo App geliştirdim. 
+Navigation ile sayfa geçişleri yaptım.
+Flutter Model yapısına uygun kodlama yaptım.
+REST API kullandım. 
 
-## Getting Started
+-----------------------------------------------------
+-------------------------------------------------------
+![image](https://github.com/user-attachments/assets/6290098d-fe9c-4eb2-b8d5-a703999346cc)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+------------------------------------------------------------
+------------------------------------------------------------
+YENİ TASK EKLEME SAYFASI
+------------------------------------------------------------
+------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/28d68d68-7678-4bb6-9c2e-02a8e2308076)
